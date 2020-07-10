@@ -1,0 +1,11 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+double firstNumber,secondNumber,product of two numbers;
+cout<<"Enter two numbers:";
+cin>>first number>>second number;
+product of two numbers=first number*second number;
+cout<<"product="<<product of two numbers;
+return 0;
+}
